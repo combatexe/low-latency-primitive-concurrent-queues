@@ -135,10 +135,7 @@ import java.util.concurrent.TimeoutException;
  * actions subsequent to the access or removal of that element from
  * the {@code BlockingQueue} in another thread.
  * <p/>
- * <p>This interface is a member of the
- * <a href="{@docRoot}/../technotes/guides/collections/index.html">
- * Java Collections Framework</a>.
- *
+
  * @author Rob Austin
  * @since 1.1
  */
