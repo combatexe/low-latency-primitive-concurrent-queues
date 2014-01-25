@@ -27,6 +27,25 @@
     </dependencies>
 
 
+    <url>http://www.boundedbuffer.co.uk</url>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Rob Austin</name>
+            <email>robaustin123@googlemail.com</email>
+        </developer>
+    </developers>
+
+
+
     <build>
 
         <plugins>
